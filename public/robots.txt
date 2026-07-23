@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://kentbuildingconstruction.co.uk/sitemap.xml
+Sitemap: https://kentbuildingandconstruction.co.uk/sitemap.xml
  
 # Crawl-delay
 Crawl-delay: 1 

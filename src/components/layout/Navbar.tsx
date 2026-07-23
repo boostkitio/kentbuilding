@@ -27,11 +27,6 @@ const logoColorUrl = "https://ik.imagekit.io/boostkit/Kent%20Building/KBAC%20V2.
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  // Close menu when location changes
-  useEffect(() => {
-    setIsOpen(false);
-  }, [location]);
-
   const navLinks = [
     { name: 'Home', path: '/' },
     { name: 'Services', path: '/services' },
