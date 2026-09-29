@@ -1,0 +1,17 @@
+﻿{
+    "schemaVersion":  2,
+    "id":  "kentbuilding",
+    "canonicalPath":  "C:\\dev\\projects\\kentbuilding",
+    "kind":  "client",
+    "business":  "boostkit",
+    "clientId":  null,
+    "status":  "uncertain",
+    "criticality":  "medium",
+    "updateTier":  "C",
+    "productionDeploymentRequiresApproval":  true,
+    "context":  {
+                    "companyBrain":  "C:\\dev\\projects\\_TOOLS\\company-brain",
+                    "workstream":  "C:\\dev\\projects\\_TOOLS\\company-brain\\workstreams\\kentbuilding",
+                    "repositoryContext":  "C:\\dev\\projects\\kentbuilding\\docs\\agent-context\\project.md"
+                }
+}
