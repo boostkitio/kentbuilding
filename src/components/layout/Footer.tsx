@@ -132,7 +132,13 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <div className="text-center text-gray-500 text-sm mt-10">
-          <p>&copy; {currentYear} Kent Building & Construction Ltd. All rights reserved.</p>
+          <p>
+            &copy; {currentYear} Kent Building & Construction Ltd. All rights reserved. Website by{' '}
+            <a href="https://boostkit.io/" className="hover:text-primary-400 transition-colors">
+              Boostkit
+            </a>
+            .
+          </p>
         </div>
       </div>
     </footer>
