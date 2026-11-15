@@ -20,7 +20,7 @@ const ContactBanner: React.FC = () => {
         <h1 className="text-3xl md:text-5xl font-heading font-bold mb-6 text-white">
           Contact <span className="text-primary-300">Us</span>
         </h1>
-                    <p className="text-xl text-primary-100 max-w-2xl mx-auto">
+                    <p className="text-xl text-primary-100 max-w-2xl mx-auto break-words">
               Get in touch with our team to discuss your construction project or request a free quote. Call 07766 141811 or email spencer@kentbuildingandconstruction.co.uk
             </p>
       </div>
